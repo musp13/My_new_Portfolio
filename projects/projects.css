@@ -1,0 +1,22 @@
+#logo
+{
+    font-family: 'Ink Free','Segoe Print','Segoe Script Bold','Trebuchet MS','Segoe UI','Segoe Script','Lucida Sans Unicode','Times New Roman';
+    color: rgb(255, 165, 0);
+}
+body
+{
+    /*background-image: linear-gradient(#ebe8e8,white);*/
+    background-color: #ebe8e8 ; 
+    margin: auto;
+    font-family: 'Trebuchet MS','Lucida Sans Unicode','Segoe UI';
+    
+}
+#projects-heading
+{
+    font-size: 100px;
+}
+#page-heading
+{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
