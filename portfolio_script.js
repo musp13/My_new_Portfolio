@@ -32,5 +32,12 @@ $(document).ready(function()
             $("#contact-ball").css("background-color","cyan");
         }
     );
+    /*$("#resume-ball").*/
+    /*$('#https://musp13.github.io/Musfira-s-Portfolio/Musfira%20-%20CV_New.pdf').trigger('click');*/
+    /*$("#resume-ball" ).click(function()
+    {
+        $("#resume-ball" ).load("https://musp13.github.io/Musfira-s-Portfolio/Musfira%20-%20CV_New.pdf");
+    }
+    );*/
     $('main').scroll();
 });

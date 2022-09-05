@@ -1,0 +1,17 @@
+body
+{
+    margin: 0;
+}
+h3{
+    font-family:  serif,Courier,monospace;
+}
+#form-outline
+{
+    height:85vh;
+    margin-top: 20px;
+}
+header
+{
+    width:100vw;
+    
+}
